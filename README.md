@@ -14,4 +14,4 @@
 
 ## Questions?
 
-For any questions or additional information, contact `organizers-texas@kubernetescommunitydays.org`.
+For any questions or additional information, contact [organizers-texas@kubernetescommunitydays.org](mailto:organizers-texas@kubernetescommunitydays.org).
