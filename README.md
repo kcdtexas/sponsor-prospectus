@@ -1,7 +1,13 @@
 ## Download The Sponsor Prospectus for KCD Texas 2025
 
-[![Sponsor Prospectus](img/thumbnail-KCDTexas-2025-Sponsorship-Prospectus.png 'Prospectus')](https://www.canva.com/design/DAGDhj0pHog/AiKnNhlFfeg3DTG_N3hz5A/view?utm_content=DAGDhj0pHog&utm_campaign=designshare&utm_medium=link&utm_source=editor#5)
+[![alt text](img/KCD-Texas-2026-Sponsorship-Prospectus.png)](KCD-TEXAS-2026-Sponsorship-Prospectus.pdf)
 
 ## Download The Sponsor Agreement for KCD Texas 2025
 
-[Sponsor Agreement](KCD-Texas-2025-Sponsorship-Agreement.pdf)
+[Sponsor Agreement](KCD-TEXAS-2026-Sponsorship-Prospectus.pdf)
+
+## KCD Texas 2026 Prospectus Details
+
+- Event date: May 15, 2026; the PDF linked above is the official sponsor prospectus for the event.
+- The document outlines available sponsorship tiers, benefits, and how to participate—use it as the single source of truth when planning your 2026 KCD Texas sponsorship.
+
