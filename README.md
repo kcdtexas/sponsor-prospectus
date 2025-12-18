@@ -9,5 +9,9 @@
 ## KCD Texas 2026 Prospectus Details
 
 - Event date: May 15, 2026; the PDF linked above is the official sponsor prospectus for the event.
-- The document outlines available sponsorship tiers, benefits, and how to participate—use it as the single source of truth when planning your 2026 KCD Texas sponsorship.
+- The document outlines available sponsorship tiers, benefits, and how to participate. 
+- Use it as the single source of truth when planning your 2026 KCD Texas sponsorship.
 
+## Questions?
+
+For any questions or additional information, contact `organizers-texas@kubernetescommunitydays.org`.
