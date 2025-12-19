@@ -2,7 +2,7 @@
 
 [![alt text](img/KCD-Texas-2026-Sponsorship-Prospectus.png)](KCD-TEXAS-2026-Sponsorship-Prospectus.pdf)
 
-## Download The Sponsor Agreement for KCD Texas 2026
+## Download The Sponsor Prospectus for KCD Texas 2026
 
 [Sponsor Agreement](https://raw.githubusercontent.com/kcdtexas/sponsor-prospectus/main/KCD-TEXAS-2026-Sponsorship-Prospectus.pdf)
 
